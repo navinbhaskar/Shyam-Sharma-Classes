@@ -1,0 +1,211 @@
+{
+  "project_info": {
+    "project_number": "633109830849",
+    "firebase_url": "https://classcast-198812.firebaseio.com",
+    "project_id": "classcast-198812",
+    "storage_bucket": "classcast-198812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633109830849:android:ab7536c6a781265a",
+        "android_client_info": {
+          "package_name": "com.classcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633109830849-k8116fv9u31ht4nd2k60763v45879i8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.classcast",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "633109830849-4juq2mu8cig6jik8vboh3vgj7tbmrfif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.classcast",
+            "certificate_hash": "29d4fbe1b14a31fb32629c36f94eb0eebb509891"
+          }
+        },
+        {
+          "client_id": "633109830849-p3ii2k7fo2tfrbb7n5dctfa3volnf128.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.classcast",
+            "certificate_hash": "659bf976b6a2761b63b42e34e48bbff37584ae3b"
+          }
+        },
+        {
+          "client_id": "633109830849-a8q5u6vdphcp8tfgr3nfaku4m33dnpbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.classcast",
+            "certificate_hash": "68788df95bfe9f291872d162cc95b66def5dc9ac"
+          }
+        },
+        {
+          "client_id": "633109830849-mpt405on78a314r5aqf9sg6h3ehhv12c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.classcast",
+            "certificate_hash": "adb9d7c6c1603dd851d905bbf71f9278ed95a73f"
+          }
+        },
+        {
+          "client_id": "633109830849-6te8l12gb1fsfqk2tek9tq2mknj1qnaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.classcast",
+            "certificate_hash": "fdcfe5d9184c35291c03b452a51c3a8bfacc784f"
+          }
+        },
+        {
+          "client_id": "633109830849-20de7redkjdrorqb7d7pcrqbj2daok5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw1TYmD5lBEU-pZcwEl2r7WCARq1xHtSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633109830849-20de7redkjdrorqb7d7pcrqbj2daok5e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633109830849-q4etpepq5q2no04u63j9lsmhlcs91cco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classcast.classcast"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633109830849:android:50f51eef9b6d8415",
+        "android_client_info": {
+          "package_name": "com.drona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633109830849-20de7redkjdrorqb7d7pcrqbj2daok5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw1TYmD5lBEU-pZcwEl2r7WCARq1xHtSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633109830849-20de7redkjdrorqb7d7pcrqbj2daok5e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633109830849-q4etpepq5q2no04u63j9lsmhlcs91cco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classcast.classcast"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633109830849:android:6d0172647f322f783e0840",
+        "android_client_info": {
+          "package_name": "com.manjushri.dronaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633109830849-20de7redkjdrorqb7d7pcrqbj2daok5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw1TYmD5lBEU-pZcwEl2r7WCARq1xHtSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633109830849-20de7redkjdrorqb7d7pcrqbj2daok5e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633109830849-q4etpepq5q2no04u63j9lsmhlcs91cco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classcast.classcast"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633109830849:android:eb7c62570a640e753e0840",
+        "android_client_info": {
+          "package_name": "com.shayamsharmaclasses.classcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633109830849-amh8l7hmsqtjblf3n5c5kpqim3ofdmul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shayamsharmaclasses.classcast",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "633109830849-20de7redkjdrorqb7d7pcrqbj2daok5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw1TYmD5lBEU-pZcwEl2r7WCARq1xHtSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633109830849-20de7redkjdrorqb7d7pcrqbj2daok5e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633109830849-q4etpepq5q2no04u63j9lsmhlcs91cco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.classcast.classcast"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
